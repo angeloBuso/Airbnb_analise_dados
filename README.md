@@ -1,5 +1,4 @@
-# Airbnb_analise_dados
-Análise exploratórios dos dados do Airbnb
+# Análise exploratórios dos dados do Airbnb
 
 ![](https://img.shields.io/badge/Status-Concluído-green.svg)
 
@@ -8,7 +7,7 @@ Análise exploratórios dos dados do Airbnb
   
 <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Foto de </font></font><a href="https://unsplash.com/@agustindiazg?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Agustin Diaz Gargiulo</font></font></a><font style="vertical-align: inherit;"></span>
 
-# Explorando dados do Airbnb para o *Rio de Janeiro*
+## Explorando dados do Airbnb para o *Rio de Janeiro*
 
 O [Airbnb](https://www.airbnb.com.br/d/howairbnbworks) é uma comunidade global de viagens, que permite encontrar acomodações para todos os tipos de viagens. Segundo a [Forbes](https://forbes.com.br/listas/2019/05/global-2000-os-maiores-grupos-hoteleiros-em-2019/) o Airbnb têm se revelado concorrente de peso aos **grandes grupos hoteleiros** e o detalhe é que o Airbnb **não possui nenhum hotel**!
 
