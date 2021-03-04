@@ -19,4 +19,4 @@ Nasceu em 2007, quando dois anfitriões deram as boas-vindas a três hóspedes e
 
 Um dos pilares do Airbnb é a sua cultura aberta de dados (*open data*), disponibilizando os dados do site de algumas das principais cidades do mundo. Por meio do portal [Inside Airbnb](http://insideairbnb.com/get-the-data.html), é possível consultar, baixar e explorar uma grande quantidade de dados para desenvolver projetos e soluções de *Data Science*.
 
-**Neste *notebook***, iremos analisar os dados referentes à cidade Maravilhosa do Rio de Janeiro e ver quais insights podemos extrair a partir destes dados **brutos** usando *Data Mining*.
+**Neste [*notebook*](https://github.com/angeloBuso/Airbnb_analise_dados/blob/main/Dados_do_Airbnb.ipynb)**, iremos analisar os dados referentes à cidade Maravilhosa do Rio de Janeiro e ver quais insights podemos extrair a partir destes dados **brutos** usando *Data Mining*.
